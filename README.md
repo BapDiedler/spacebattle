@@ -1,5 +1,5 @@
 # methodo2022-MI-tp-4.1-DIEDLER-LICHTNER
-
+Projet de première année de licence Mathématique informatique. En collaboration avec Marc Lichtner sur la création d'un jeu nommé le space battle.
 
 
 ## Getting started
